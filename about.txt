@@ -1,0 +1,21 @@
+
+In today's fast-paced and demanding world, individuals often struggle to keep track of their daily
+tasks, appointments, and essential activities. The lack of an efficient and organized system leads to
+missed deadlines, forgotten commitments, and increased stress levels. It can be very frustrating for
+an individual to loose the time sense in their daily tasks as well and forgetting important activities or
+essentials. Existing manual methods of task management, such as pen-and-paper lists or basic
+calendar apps, often prove inadequate in effectively addressing these challenges. Consequently, there
+is a pressing need for a comprehensive solution that simplifies task management, enhances
+productivity, and promotes better time management skills.
+
+
+Daily Essential Reminder app is an application developed using android studio. The app's task
+scheduling feature allows users to set remainder on the things they want to be reminded off, enabling
+better time management and reducing the risk of missing important deadlines.
+The reminder functionality plays a crucial role in ensuring that users never forget essential tasks or
+appointments. Customizable notifications can be set up to alert users at specific times or intervals
+making it easy to stay on top of daily responsibilities.
+Users can login with the email id and password and if they have not been registered user can register
+with a new email id and password of their choice. The app's intuitive design and user-friendly
+interface further contribute to a positive user experience, encouraging regular usage and adherence to
+task management practices.
